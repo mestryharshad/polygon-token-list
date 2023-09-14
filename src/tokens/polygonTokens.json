@@ -20691,5 +20691,23 @@
                 "website": "https://3adao.org/"
             }
         }
+    },
+    {
+        "chainId": 137, 
+        "name": "Decentrawood",
+        "symbol": "Deod",
+        "decimals": 18,
+        "address": "0xE77aBB1E75D2913B2076DD16049992FFeACa5235",
+        "logoURI": "https://www.decentrawood.com/assets/images/Logo.png",
+        "tags": ["fx","erc20","swapable","noDeposit","noWithdraw"], 
+        "extensions": {
+            "rootAddress": "0x0000000000000000000000000000000000000000", 
+            "project": {
+                "name": "Decentrawood",
+                "summary": "Decentrawood is metaverse and nft platform for enhanced scalability and efficiency in virtual worlds",
+                "contact": "Info@decentrawood.com",
+                "website": "https://www.decentrawood.com/"
+            }
+        }
     }
 ]
